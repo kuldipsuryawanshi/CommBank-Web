@@ -27,7 +27,10 @@ export interface Goal {
   accountId: string
   transactionIds: string[]
   tagIds: string[]
+<<<<<<< HEAD
   icon: string | null
+=======
+>>>>>>> upstream/main
 }
 
 export interface Tag {
